@@ -18,7 +18,7 @@ Issueをインポートしても、Issue作成日よりもCommit日付が古い�
 - 適切なパラメータいれて実行
 
 ```
-GitHubIssueCommitBinder.exe C:\repo\sample.git main ghp_xxx 0
+$ GitHubIssueCommitBinder.exe C:\repo\sample.git main ghp_xxx 0
 ```
 
 ## 実行結果
