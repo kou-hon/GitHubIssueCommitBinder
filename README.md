@@ -1,4 +1,5 @@
 [![.NET](https://github.com/kou-hon/GitHubIssueCommitBinder/actions/workflows/main.yml/badge.svg)](https://github.com/kou-hon/GitHubIssueCommitBinder/actions/workflows/main.yml)
+[![.NET Build and Release](https://github.com/kou-hon/GitHubIssueCommitBinder/actions/workflows/BuildAndRelease.yml/badge.svg)](https://github.com/kou-hon/GitHubIssueCommitBinder/actions/workflows/BuildAndRelease.yml)
 
 # GitHubIssueCommitBinder
 
